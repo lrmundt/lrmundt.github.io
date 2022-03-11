@@ -1,0 +1,26 @@
+* {
+		font-family:Trebuchet MS, serif;
+		font-size:18pt;
+		color: #e93193;
+		text-align: center;
+
+}
+
+nav {
+	background-color: #f8e2f3;
+	padding:  10px;
+	margin:  10px;
+
+}
+
+H1 {
+	text-align:center;
+	color:rgb(233,49,147);
+	font-size: 25pt;
+	font-family:American Typewriter;
+	}
+
+li {
+	display: inline;
+	padding:  5px;
+}
